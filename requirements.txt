@@ -82,7 +82,7 @@ mistralai==1.2.6
 mockito==1.5.3
 msgpack==1.1.0
 multidict==6.1.0
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
 narwhals==1.21.1
 nltk==3.9.1
 numpy==2.2.1
